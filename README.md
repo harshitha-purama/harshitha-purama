@@ -1,8 +1,15 @@
-# Hi, I'm Harshitha Purama
- 
-I work on adaptive neurorehabilitation systems, multimodal physiological sensing (HRV, MMG, IMU, EEG), and machine learning for clinical applications. My focus is building objective, data-driven tools that bring intelligent sensing into rehabilitation for stroke, spinal cord injury, and acquired brain injury.
- 
-- Currently building a closed-loop FES pipeline integrating HRV and MMG for personalised neurological rehabilitation
-- AI R&D Engineer - South Korea
-- Open to collaborating on wearable sensing, biosignal processing, rehabilitation engineering, or clinical ML
-📫 [harshithapurama@gmail.com](mailto:harshithapurama@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/harshitha-purama) &nbsp;|&nbsp; 
+# Harshitha Purama
+
+Biomedical signal processing and machine learning for neurorehabilitation: EEG, MMG, HRV and IMU, from raw signal to validated decoder.
+
+**Incoming MSc Biomedical Engineering, TU Wien (from March 2027)** · AI R&D Engineer, South Korea
+
+**Highlights**
+- Sole-author poster, MIDL 2026: *Frequency-Domain Supervision Reveals Architectural Differences Between CNNs and Transformers in MRI Motion Correction*
+- 2nd Prize, Data Analysis, BR41N.IO BCI Hackathon (g.tec), 2026
+
+**Working on:** a closed-loop FES pipeline that uses HRV and MMG to adapt stimulation to the patient.
+
+**Looking for:** summer 2027 internships in biosignal ML, neurotechnology or medical devices.
+
+📫 [harshithapurama@gmail.com](mailto:harshithapurama@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harshitha-purama)
